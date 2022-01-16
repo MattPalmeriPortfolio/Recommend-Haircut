@@ -9,7 +9,7 @@ Contents
 
 ## File Contents
 	
-	Replace_Separate_Integers_With_X.cpp (program file containing code)
+	Recommend_Haircut.cpp (program file containing code)
 
 ## Introduction
 Book practice project from Problem Solving With C++ Chapter 2. Project 16. This program determines what haircut the user should get based off of several questions! Demonstrates ability to create prompts, read inputs, edit, and output results from a flowchart in c++.
