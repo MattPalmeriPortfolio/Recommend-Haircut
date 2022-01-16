@@ -12,7 +12,7 @@ Contents
 	Recommend_Haircut.cpp (program file containing code)
 
 ## Introduction
-Book practice project from Problem Solving With C++ Chapter 2. Project 16. This program determines what haircut the user should get based off of several questions! Demonstrates ability to create prompts, read inputs, edit, and output results from a flowchart in c++.
+Book practice project from Problem Solving With C++ Chapter 2. Project 16. This program determines what haircut the user should get based off of several questions! Demonstrates ability to control flow, read inputs, edit, and output results from a flowchart in c++.
 Written using Microsoft Visual Studio. 
 
 ## Algorithm
